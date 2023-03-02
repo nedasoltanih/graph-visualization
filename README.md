@@ -1,2 +1,1 @@
-# graph-visualization
-Visualizing graph using GUI and map
+This repo includes two python codes, one for visualizing a NetworkX graph using TKinter and other for visualizing a NetworkX graph, which includes location information, on a world map using pygal library.
